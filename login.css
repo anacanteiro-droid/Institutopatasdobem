@@ -1,0 +1,127 @@
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+}
+
+
+
+input{
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    width: 300px;
+
+
+}
+
+
+
+a{font-size: 12px;
+    color: #000000;
+    font-weight: bold;
+
+
+}
+
+
+
+body{background-image: url(imagens/fundo\ senha-cadastro-login.png);
+background-repeat: no-repeat;
+   background-size: cover;
+text-align: center;
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+
+
+}
+
+
+
+
+h1{font-family: 'Bubbleboddy Neue Trial';
+    margin-top: 50px;
+    color: #250743;
+   font-size: 70px;
+
+}
+
+
+
+
+.caixas{
+    font-family: 'Comic Sans MS';
+    
+}
+
+
+
+
+hr{
+margin: 20px auto;
+    width: 45%;
+    border: 1px solid #f9b93b;
+
+
+}
+
+
+
+.botao{
+  margin-top: 25px;
+    margin: 5px;
+    padding: 10px 20px;
+    background-color: #4d2178;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 350px;
+    font-family: 'Comic Sans MS';
+
+
+}
+
+.botao2{
+  margin-top: 25px;
+    margin: 5px;
+    padding: 10px 20px;
+    background-color: #ffffff;
+    color: 4D2178;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 350px;
+    height: 40px;
+
+}
+
+
+
+.botao:hover{
+    background-color: #74377f;
+
+
+}
+
+
+section{
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    justify-content: center;
+
+}
+
+.icons
+{
+    width: 20px;
+}
+
+.logotop
+{
+    width: 140px;
+}

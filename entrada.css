@@ -1,0 +1,47 @@
+body{
+
+    background-image:linear-gradient(rgba(0,0,0,0.5)), url(Imagens/foto\ do\ instituto.jpeg);
+text-align: center;
+
+}
+
+
+img{
+text-align: center;
+    margin-top: 100px;
+width: 140px;
+
+}
+
+
+hr{
+    margin:20px auto;
+    border:3px solid rgb(224, 195, 33);
+    border-radius: 20px;
+    width: 100px;
+
+}
+
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+button{
+    background:#7B2CBF;
+    color:white;
+    border:2px solid #F9B93B;
+    border-radius:25px;
+    padding:10px 25px;
+    font-size:16px;
+    cursor:pointer;
+    transition:0.3s;
+}
+
+button:hover{
+    background:#F9B93B;
+    color:#4D2178;
+
+
+}

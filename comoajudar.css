@@ -1,0 +1,250 @@
+*{
+    margin: 0;
+}
+
+#fundo{
+    width: 100%;
+    margin: 0%;
+}
+
+.cabeçario{
+    background-color: #4D2178;
+}
+
+nav{
+    color: white;
+    font-family: 'Bubbleboddy Neue Trial';
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+    align-items: center;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    margin: 100px;
+  
+}
+
+ol{
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+.introducaotitulo{
+    font-size: 170%;
+    font-weight: bolder;
+margin-left: 500px;
+margin-top: 40px;
+margin-bottom: 20px;
+font-family: 'Bubbleboddy Neue Trial';
+}
+
+.introducaotexto{
+    font-size: 150%;
+    text-align: center;
+    margin-bottom: 30px;
+    font-family: 'Comic Sans MS';
+}
+
+#caes{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+.um{
+    width: 400px;
+    border-radius: 13px;
+}
+
+.dois{
+    width: 400px;
+    border-radius: 13px;
+}
+
+.tres{
+    width: 400px;
+    border-radius: 13px;
+}
+
+body{
+    background-image: linear-gradient(rgba(0,0,0,0.0)), url(imagens/fundo\ com\ ajudar.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.tituloum{
+    font-size: 160%;
+font-weight: bolder;
+margin-top: 50px;
+margin-left: 180px;
+font-family: 'Bubbleboddy Neue Trial';
+}
+
+.textoum{
+    font-size: 130%;
+    margin-top: 30px;
+    margin-left: 150px;
+    font-family: 'Comic Sans MS';
+}
+
+#imgcaoum{
+    width: 400px;
+    margin-left: 160px;
+    margin-top: 10px;
+    border-radius: 13px;
+}
+
+.textobotaoum{
+    font-size: 130%;
+    margin-top: 30px;
+    margin-left: 160px;
+    margin-bottom: 18px;
+    font-family: 'Comic Sans MS';
+}
+
+.botaoum{
+    text-decoration: none;
+    background-color: #5AACAA;
+    color: black;
+    font-size: 100%;
+    padding: 10px;
+    margin-left: 160px;
+    border-radius: 10px;
+    font-family: 'Bubbleboddy Neue Trial';
+}
+
+
+
+.titulodois{
+    font-size: 160%;
+font-weight: bolder;
+margin-top: 50px;
+margin-left: 180px;
+font-family: 'Bubbleboddy Neue Trial';
+}
+
+.textodois{
+    font-size: 130%;
+    margin-top: 30px;
+    margin-left: 150px;
+}
+
+#imgcaodois{
+    width: 400px;
+    margin-left: 160px;
+    margin-top: 10px;
+    border-radius: 13px;
+}
+
+.textobotaodois{
+    font-size: 130%;
+    margin-top: 30px;
+    margin-left: 160px;
+    margin-bottom: 18px;
+    font-family: 'Comic Sans MS';
+}
+
+.botaodois{
+    text-decoration: none;
+    background-color: #5AACAA;
+    color: black;
+    font-size: 100%;
+    padding: 10px;
+    margin-left: 160px;
+    border-radius: 10px;
+    font-family: 'Bubbleboddy Neue Trial';
+}
+
+
+
+.titulotres{
+    font-size: 160%;
+font-weight: bolder;
+margin-top: 50px;
+margin-left: 180px;
+font-family: 'Bubbleboddy Neue Trial';
+}
+
+.textotres{
+    font-size: 130%;
+    margin-top: 30px;
+    margin-left: 150px;
+    font-family: 'Comic Sans MS';
+}
+
+#imgcaotres{
+    width: 400px;
+    margin-left: 160px;
+    margin-top: 10px;
+    border-radius: 13px;
+}
+
+.textobotaotres{
+    font-size: 130%;
+    margin-top: 30px;
+    margin-left: 160px;
+    margin-bottom: 18px;
+    font-family: 'Comic Sans MS';
+}
+
+.botaotres{
+    text-decoration: none;
+    background-color: #5AACAA;
+    color: black;
+    font-size: 100%;
+    padding: 10px;
+    margin-left: 160px;
+    margin-top: 700%;
+    border-radius: 10px;
+    font-family: 'Bubbleboddy Neue Trial';
+}
+
+.RODAPE{
+    background-color: #4D2178;
+    display: flex;
+   margin-top: 10px;
+   padding: 10px;
+}
+.servico{
+    display: flex;
+}
+
+.material-symbols-outlined{
+    color: white;
+}
+
+
+.aberto_fechado{
+    color: white;
+    list-style: none;
+    padding: 3px;
+    font-size: 20px;
+}
+
+h6{
+    color: white;
+    font-family: 'Bubbleboddy Neue Trial';
+    font-size: 19px;
+    margin-left: 4px;
+}
+
+.logo_rodape{
+    margin-left: 69px;
+}
+
+.instituto1{
+    font-family: 'Bubbleboddy Neue Trial';
+    font-size: 40px;
+    color: orange;
+    margin-left: 60px;
+}
+
+.instituto2{
+    font-family: 'Bubbleboddy Neue Trial';
+    font-size: 40px;
+    color: orange;
+}
