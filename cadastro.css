@@ -58,7 +58,9 @@ h1{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
 
 
-
+h1{
+    font-family: 'Bubbleboddy Neue Trial';
+}
 
 .cabeçario{
     background-color: #4D2178;
@@ -163,7 +165,7 @@ margin: 20px auto;
 
 
 .botao:hover{
-    background-color: #ffffff;
+    background-color: #74377f;
 
 
 }

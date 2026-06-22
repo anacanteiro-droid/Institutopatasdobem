@@ -54,10 +54,13 @@ h1{font-family: 'Bubbleboddy Neue Trial';
 
 .caixas{
     font-family: 'Comic Sans MS';
-    
+
 }
 
-
+a{
+    text-decoration: none;
+    color: white;
+}
 
 
 hr{

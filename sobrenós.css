@@ -1,5 +1,6 @@
 .cabeçario{
     background-color: #4D2178;
+    justify-content: center;
 }
 
 a{
@@ -22,9 +23,15 @@ ol{
     gap: 20px;
 }
 
+
 .logo{
     width: 40px;
 }
+
+
+
+
+
 
 body{
 background-image: linear-gradient(rgba(0,0,0,0.0)),url(imagens/fundo\ sobre\ nós.jpeg);

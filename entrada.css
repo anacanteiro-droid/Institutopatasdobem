@@ -9,7 +9,6 @@ text-align: center;
 img{
 text-align: center;
     margin-top: 100px;
-width: 140px;
 
 }
 
@@ -37,6 +36,9 @@ button{
     font-size:16px;
     cursor:pointer;
     transition:0.3s;
+    width: 200px;
+    height: 80px;
+    font-family: 'Bubbleboddy Neue Trial';
 }
 
 button:hover{

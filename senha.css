@@ -40,7 +40,10 @@ text-align: center;
 }
 
 
-
+#botão{
+    color: white;
+    text-decoration: none;
+}
 
 h1{font-family: 'Bubbleboddy Neue Trial';
     margin-top: 50px;
@@ -55,7 +58,7 @@ h1{font-family: 'Bubbleboddy Neue Trial';
 
 .caixas{
     font-family: 'Comic Sans MS';
-    
+
 }
 
 

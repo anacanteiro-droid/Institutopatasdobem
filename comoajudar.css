@@ -115,9 +115,12 @@ font-family: 'Bubbleboddy Neue Trial';
     margin-left: 160px;
     border-radius: 10px;
     font-family: 'Bubbleboddy Neue Trial';
+    
 }
 
-
+.botaoum:hover{
+    background-color: #4D2178;
+}
 
 .titulodois{
     font-size: 160%;
@@ -148,16 +151,6 @@ font-family: 'Bubbleboddy Neue Trial';
     font-family: 'Comic Sans MS';
 }
 
-.botaodois{
-    text-decoration: none;
-    background-color: #5AACAA;
-    color: black;
-    font-size: 100%;
-    padding: 10px;
-    margin-left: 160px;
-    border-radius: 10px;
-    font-family: 'Bubbleboddy Neue Trial';
-}
 
 
 
@@ -191,17 +184,6 @@ font-family: 'Bubbleboddy Neue Trial';
     font-family: 'Comic Sans MS';
 }
 
-.botaotres{
-    text-decoration: none;
-    background-color: #5AACAA;
-    color: black;
-    font-size: 100%;
-    padding: 10px;
-    margin-left: 160px;
-    margin-top: 700%;
-    border-radius: 10px;
-    font-family: 'Bubbleboddy Neue Trial';
-}
 
 .RODAPE{
     background-color: #4D2178;
