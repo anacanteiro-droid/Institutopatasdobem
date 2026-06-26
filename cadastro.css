@@ -86,27 +86,7 @@ ol{
     gap: 20px;
 }
 
-.RODAPE{
-    background-color: #4D2178;
-    display: flex;
-   margin-top: 10px;
-   padding: 10px;
-}
-.servico{
-    display: flex;
-}
 
-.material-symbols-outlined{
-    color: white;
-}
-
-
-.aberto_fechado{
-    color: white;
-    list-style: none;
-    padding: 3px;
-    font-size: 20px;
-}
 
 h6{
     color: white;

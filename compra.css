@@ -8,7 +8,11 @@ body{
     background-color: #FFD75E;
 }
 
-.cabeçario{
+.menu_fixo{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
     background-color: #4D2178;
 }
 
